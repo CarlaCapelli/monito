@@ -1,0 +1,18 @@
+h2 {
+  color: rgb(117, 70, 8);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+.parrafo1 {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgba(119, 45, 45, 0.644);
+}
+.foto3 {
+  width: 160px;
+  height: 160px;
+}
+body {
+  background-color: rgb(214, 195, 156);
+}

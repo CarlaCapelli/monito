@@ -49,6 +49,10 @@ h3 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(5, 119, 5);
 }
+.foto2 {
+  width: 150px;
+  height: 150px;
+}
 body {
   background-color: rgb(214, 195, 156);
 }
